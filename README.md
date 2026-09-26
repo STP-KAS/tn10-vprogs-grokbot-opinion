@@ -1,4 +1,4 @@
-> **Experimental only. Testnet-10 only. Not advice, not Kaspa core, not an audit.**
+> **Experimental only. Testnet-10 only. Not advice, not Kaspa core, not an audit.** [DISCLAIMER.md](DISCLAIMER.md)
 
 # Grok Bot opinion: a point-by-point reply to "Grok Build opinion on the public TN10 grok-bot stress notes"
 
