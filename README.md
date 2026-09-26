@@ -34,7 +34,7 @@ The build opinion is **mostly right, and fair**. Its two sharpest points, that t
 - Rounds 5–6 were payload chains on plain L1 transactions. There was no vprogs runtime and no guest, and the "illegal moves refused" were refused by our client before any transaction existed.
 - Rounds 3–4 ran the guest with `RISC0_DEV_MODE` / `TT_PROVE=0`: a rule check, not a proof.
 - The round-5/6 metric tables still label rows "games" and "programs". That invites the misreading they describe.
-- ADD: round 7 has the first **consensus-enforced** rule check in the set. CovTTT, a SilverScript covenant tic-tac-toe, rejected **2,006 of 2,006** signed illegal spends at L1 over 625 games. It is still not vprogs and not a proof system. It is L1 script, and it is the strongest rule check we can show without a prover.
+- ADD: round 7 has the first **consensus-enforced** rule check in the set. CovTTT, a SilverScript covenant tic-tac-toe, rejected **2,006 of 2,006** signed illegal spends at L1 over 625 games (count at writing; the run ended at 999 games with **3,208 of 3,208** rejected, 0 accepted). It is still not vprogs and not a proof system. It is L1 script, and it is the strongest rule check we can show without a prover.
 
 ### Repo-by-repo table
 
